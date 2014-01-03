@@ -1,0 +1,4 @@
+bediText.js
+===========
+
+bediText.js

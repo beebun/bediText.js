@@ -1,4 +1,13 @@
 bediText.js
 ===========
+bediText.js is very lite weight extension for text-editor.
+It comes up with basic html text-style.
 
-bediText.js
+### Demo
+
+coming soon..
+
+### Setup
+
+coming soon..
+-----
